@@ -1,0 +1,5 @@
+E:\IT\CS\webapidemo\CodeUin.Helpers\obj\Debug\net8.0\CodeUin.Helpers.csproj.AssemblyReference.cache
+E:\IT\CS\webapidemo\CodeUin.Helpers\obj\Debug\net8.0\CodeUin.Helpers.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\CS\webapidemo\CodeUin.Helpers\obj\Debug\net8.0\CodeUin.Helpers.AssemblyInfoInputs.cache
+E:\IT\CS\webapidemo\CodeUin.Helpers\obj\Debug\net8.0\CodeUin.Helpers.AssemblyInfo.cs
+E:\IT\CS\webapidemo\CodeUin.Helpers\obj\Debug\net8.0\CodeUin.Helpers.csproj.CoreCompileInputs.cache

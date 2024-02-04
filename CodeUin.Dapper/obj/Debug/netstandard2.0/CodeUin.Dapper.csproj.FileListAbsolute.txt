@@ -1,0 +1,10 @@
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.csproj.AssemblyReference.cache
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.AssemblyInfoInputs.cache
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.AssemblyInfo.cs
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.csproj.CoreCompileInputs.cache
+E:\IT\CS\webapidemo\CodeUin.Dapper\bin\Debug\netstandard2.0\CodeUin.Dapper.deps.json
+E:\IT\CS\webapidemo\CodeUin.Dapper\bin\Debug\netstandard2.0\CodeUin.Dapper.dll
+E:\IT\CS\webapidemo\CodeUin.Dapper\bin\Debug\netstandard2.0\CodeUin.Dapper.pdb
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.dll
+E:\IT\CS\webapidemo\CodeUin.Dapper\obj\Debug\netstandard2.0\CodeUin.Dapper.pdb

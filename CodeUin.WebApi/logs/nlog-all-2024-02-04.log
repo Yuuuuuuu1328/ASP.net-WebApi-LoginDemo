@@ -1,0 +1,434 @@
+2024-02-04 16:32:54.3161||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 16:32:54.9398||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 16:32:54.9398||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 16:32:54.9398||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 16:32:54.9483||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 16:32:55.1956||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 16:32:55.3616||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 417.1253ms 
+2024-02-04 16:32:55.3616||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 16:38:03.7279||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/register - application/json 93 
+2024-02-04 16:38:03.7279||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:38:03.7279||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:38:03.7279||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/register - 405 - application/json;charset=utf-8 8.6667ms 
+2024-02-04 16:38:27.4089||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/register - application/json 93 
+2024-02-04 16:38:27.4105||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:38:27.4105||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:38:27.4105||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/register - 405 - application/json;charset=utf-8 36.9153ms 
+2024-02-04 16:43:26.1130||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/register - application/json 114 
+2024-02-04 16:43:26.1143||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:43:26.1143||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:43:26.1143||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/register - 405 - application/json;charset=utf-8 30.9442ms 
+2024-02-04 16:44:13.4281||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 16:44:13.4281||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:44:13.4281||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:44:13.4281||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/register - 405 - application/json;charset=utf-8 28.2477ms 
+2024-02-04 16:48:37.6988||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 16:48:38.0334||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 16:48:38.0334||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 16:48:38.0334||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 16:48:38.0400||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 16:48:38.2136||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 16:48:38.3545||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 318.2028ms 
+2024-02-04 16:48:38.3545||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 16:48:59.7642||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 16:48:59.7716||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:48:59.7716||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 16:48:59.7716||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/register - 405 - application/json;charset=utf-8 10.0857ms 
+2024-02-04 16:53:30.6839||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 16:53:30.6839||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 16:53:30.7085||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 16:53:31.2040||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 491.0488ms 
+2024-02-04 16:53:31.2040||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 16:53:31.2189||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|Authentication to host '127.0.0.1' for user 'root' using method 'mysql_native_password' failed with message: Unknown database 'codeuin' 
+2024-02-04 16:53:31.2189||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;charset=utf-8 559.4118ms 
+2024-02-04 16:54:35.8555||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 16:54:36.0143||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 16:54:36.0143||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 16:54:36.0143||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 16:54:36.0219||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 16:54:36.1903||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 16:54:36.2996||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 281.9110ms 
+2024-02-04 16:54:36.2996||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 16:54:40.2125||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 16:54:40.2125||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 16:54:40.2332||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 16:54:40.6507||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 16:54:40.6641||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 427.0489ms 
+2024-02-04 16:54:40.6641||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 16:54:40.6641||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;+charset=utf-8 453.1672ms 
+2024-02-04 16:55:05.8264||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 16:55:05.8264||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 16:55:05.8264||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 16:55:05.8532||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 16:55:05.8532||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 25.3853ms 
+2024-02-04 16:55:05.8532||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 16:55:05.8532||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;+charset=utf-8 27.9632ms 
+2024-02-04 19:57:56.4997||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - application/json 99 
+2024-02-04 19:57:56.5045||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 19:57:56.5045||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 19:57:56.5045||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 10.5280ms 
+2024-02-04 19:58:46.5300||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 100 
+2024-02-04 19:58:46.5300||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 19:58:46.5300||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 19:58:46.5300||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 1.8269ms 
+2024-02-04 20:02:13.1279||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 20:02:13.2903||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 20:02:13.2903||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 20:02:13.2903||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 20:02:13.2903||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 20:02:13.4691||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 20:02:13.5827||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 288.9075ms 
+2024-02-04 20:02:13.5827||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 20:02:22.1760||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 100 
+2024-02-04 20:02:22.1760||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:22.1760||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:22.1760||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 4.1847ms 
+2024-02-04 20:02:23.5335||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 100 
+2024-02-04 20:02:23.5335||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:23.5335||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:23.5355||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 2.0947ms 
+2024-02-04 20:02:38.5583||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:02:38.5583||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:38.5583||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:38.5583||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 1.7834ms 
+2024-02-04 20:02:40.1649||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:02:40.1649||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:40.1649||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:02:40.1649||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 1.3668ms 
+2024-02-04 20:05:23.9711||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 106 
+2024-02-04 20:05:23.9711||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:05:23.9711||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:05:23.9711||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 1.5697ms 
+2024-02-04 20:09:26.7892||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 20:09:26.9484||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 20:09:26.9484||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 20:09:26.9484||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 20:09:26.9484||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 20:09:27.1583||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 20:09:27.3707||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 418.1852ms 
+2024-02-04 20:09:27.3707||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 20:09:31.9882||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 100 
+2024-02-04 20:09:31.9907||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:09:31.9907||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:09:31.9907||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 4.1185ms 
+2024-02-04 20:09:33.6466||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 100 
+2024-02-04 20:09:33.6466||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:09:33.6466||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:09:33.6466||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 2.0858ms 
+2024-02-04 20:09:40.0014||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:09:40.0014||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:09:40.0014||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:09:40.0014||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 1.7888ms 
+2024-02-04 20:32:29.6754||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 20:32:29.9110||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 20:32:29.9110||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 20:32:29.9110||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 20:32:29.9110||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 20:32:30.2673||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 20:32:30.3989||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 482.8297ms 
+2024-02-04 20:32:30.3989||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 20:32:41.1375||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:32:41.1375||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:32:41.1375||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:32:41.1375||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 5.2872ms 
+2024-02-04 20:37:04.8594||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 20:37:05.4726||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 20:37:05.4734||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 20:37:05.4734||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 20:37:05.4734||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 20:37:05.6840||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 20:37:05.8349||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 357.3110ms 
+2024-02-04 20:37:05.8349||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 20:37:23.9448||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:37:23.9448||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:37:23.9448||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:37:23.9448||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 5.3893ms 
+2024-02-04 20:37:25.9731||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:37:25.9731||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:37:25.9731||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint '405 HTTP Method Not Supported' 
+2024-02-04 20:37:25.9731||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/login - 405 - application/json;charset=utf-8 1.9703ms 
+2024-02-04 20:37:50.4336||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:37:50.4336||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 20:37:50.4587||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 20:38:16.0168||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 25553.9448ms 
+2024-02-04 20:38:16.0168||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 20:38:16.0711||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes') 
+2024-02-04 20:38:16.0711||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;charset=utf-8 25638.9767ms 
+2024-02-04 20:38:42.6770||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:38:42.6770||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 20:38:42.6770||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 20:38:50.7210||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 8042.2862ms 
+2024-02-04 20:38:50.7210||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 20:38:50.7742||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|IDX10720: Unable to create KeyedHashAlgorithm for algorithm 'HS256', the key size must be greater than: '256' bits, key has '144' bits. (Parameter 'keyBytes') 
+2024-02-04 20:38:50.7742||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;charset=utf-8 8099.9040ms 
+2024-02-04 20:50:35.7464||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 20:50:35.9119||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 20:50:35.9119||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 20:50:35.9119||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 20:50:35.9119||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 20:50:36.1082||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 20:50:36.2564||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 340.3918ms 
+2024-02-04 20:50:36.2564||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 20:50:42.4656||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 20:50:42.4656||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 20:50:42.4869||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 20:50:53.7915||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType2`4[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 20:50:53.8106||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 11319.4387ms 
+2024-02-04 20:50:53.8106||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 20:50:53.8106||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 11346.5857ms 
+2024-02-04 21:03:10.8365||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 21:03:10.8365||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 21:03:10.8365||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 21:03:10.8365||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 10.0245ms 
+2024-02-04 21:03:18.4726||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 21:03:18.4735||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:03:18.4735||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:03:18.5137||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType2`4[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 21:03:18.5137||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 40.3722ms 
+2024-02-04 21:03:18.5137||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:03:18.5137||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 42.1377ms 
+2024-02-04 21:05:58.7672||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 21:05:58.7672||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 21:05:58.7672||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 21:05:58.7672||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 1.9171ms 
+2024-02-04 21:06:02.0432||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 21:06:02.0432||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 21:06:02.0432||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 21:06:02.0432||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 1.2965ms 
+2024-02-04 21:06:18.3398||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 21:06:18.3398||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 21:06:18.3398||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 21:06:18.3398||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 1.5022ms 
+2024-02-04 21:40:39.8031||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 21:40:40.0376||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 21:40:40.0376||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 21:40:40.0376||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 21:40:40.0376||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 21:40:40.2681||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 21:40:40.4260||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 382.5133ms 
+2024-02-04 21:40:40.4260||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 21:40:43.0400||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 21:40:43.0400||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 21:40:43.0669||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:40:43.5563||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 21:40:43.5701||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 498.8635ms 
+2024-02-04 21:40:43.5701||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 21:40:43.5701||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;+charset=utf-8 531.7529ms 
+2024-02-04 21:41:02.4190||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 118 
+2024-02-04 21:41:02.4190||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 21:41:02.4190||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:41:02.4477||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 21:41:02.4477||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 27.4465ms 
+2024-02-04 21:41:02.4477||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 21:41:02.4477||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;+charset=utf-8 29.9386ms 
+2024-02-04 21:41:28.7300||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 21:41:28.7300||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:41:28.7300||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:41:28.7475||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 21:41:28.7475||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 13.641ms 
+2024-02-04 21:41:28.7475||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:41:28.7475||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 18.3162ms 
+2024-02-04 21:41:35.6937||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 21:41:35.6937||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:41:35.6937||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:41:49.0500||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 13348.8902ms 
+2024-02-04 21:41:49.0500||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:41:49.0997||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: It was not possible to connect to the redis server(s). ConnectTimeout, command=SET, timeout: 5000, inst: 0, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, rs: NotStarted, ws: Initializing, in: 0, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 1, serverEndpoint: localhost:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: YU(SE.Redis-v2.7.17.27058), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=8,QueuedItems=0,CompletedItems=170,Timers=7), v: 2.7.17.27058 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts) 
+2024-02-04 21:41:49.0997||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;charset=utf-8 13408.0271ms 
+2024-02-04 21:52:34.8716||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 21:52:35.0752||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 21:52:35.0752||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 21:52:35.0752||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 21:52:35.0849||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 21:52:35.2806||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 21:52:35.4631||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 382.5422ms 
+2024-02-04 21:52:35.4631||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 21:52:38.8197||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 21:52:38.8197||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:52:38.8450||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:52:44.6272||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 5777.3441ms 
+2024-02-04 21:52:44.6272||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:52:44.7052||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: UnableToConnect (None, last-recv: 446) on 192.168.174.132:6379/Interactive, Flushed/ReadAsync, last: ECHO, origin: ResetNonConnected, outstanding: 12, last-read: 0s ago, last-write: 0s ago, unanswered-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 8 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.7.17.27058, command=SET, timeout: 5000, inst: 12, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 1, serverEndpoint: 192.168.174.132:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: YU(SE.Redis-v2.7.17.27058), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=9,QueuedItems=0,CompletedItems=250,Timers=4), v: 2.7.17.27058 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts) 
+2024-02-04 21:52:44.7076||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;charset=utf-8 5887.9905ms 
+2024-02-04 21:53:59.8414||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 21:54:00.0176||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 21:54:00.0176||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 21:54:00.0176||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 21:54:00.0252||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 21:54:00.2507||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 21:54:00.3906||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 365.3615ms 
+2024-02-04 21:54:00.3906||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 21:54:05.5118||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 21:54:05.5118||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:54:05.5319||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 21:54:16.2892||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 10752.6153ms 
+2024-02-04 21:54:16.2892||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 21:54:16.3388||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|The message timed out in the backlog attempting to send because no connection became available (5000ms) - Last Connection Exception: UnableToConnect (None, last-recv: 446) on 192.168.174.132:6379/Interactive, Flushed/ReadAsync, last: ECHO, origin: ResetNonConnected, outstanding: 12, last-read: 0s ago, last-write: 0s ago, unanswered-write: 0s ago, keep-alive: 60s, state: ConnectedEstablishing, mgr: 10 of 10 available, last-heartbeat: never, global: 0s ago, v: 2.7.17.27058, command=SET, timeout: 5000, inst: 12, qu: 0, qs: 0, aw: False, bw: CheckingForTimeout, last-in: 0, cur-in: 0, sync-ops: 0, async-ops: 1, serverEndpoint: 192.168.174.132:6379, conn-sec: n/a, aoc: 0, mc: 1/1/0, mgr: 10 of 10 available, clientName: YU(SE.Redis-v2.7.17.27058), IOCP: (Busy=0,Free=1000,Min=1,Max=1000), WORKER: (Busy=0,Free=32767,Min=16,Max=32767), POOL: (Threads=9,QueuedItems=0,CompletedItems=257,Timers=4), v: 2.7.17.27058 (Please take a look at this article for some common client-side issues that can cause timeouts: https://stackexchange.github.io/StackExchange.Redis/Timeouts) 
+2024-02-04 21:54:16.3388||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;charset=utf-8 10829.6829ms 
+2024-02-04 22:05:42.7699||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 22:05:42.9433||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 22:05:42.9433||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 22:05:42.9433||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 22:05:42.9433||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 22:05:43.1227||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 22:05:43.2380||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 290.9616ms 
+2024-02-04 22:05:43.2387||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 22:05:45.3314||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 22:05:45.3373||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:05:45.3537||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:05:51.6442||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 6286.2001ms 
+2024-02-04 22:05:51.6448||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:05:51.6991||ERROR|::1|CodeUin.WebApi.Helpers.ErrorHandlingMiddleware|The type initializer for 'CodeUin.Helpers.RedisHelper' threw an exception. 
+2024-02-04 22:05:51.6991||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;charset=utf-8 6370.3267ms 
+2024-02-04 22:06:43.8942||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 22:06:44.0687||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 22:06:44.0687||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 22:06:44.0687||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 22:06:44.0687||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 22:06:44.2852||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 22:06:44.4178||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 345.8904ms 
+2024-02-04 22:06:44.4178||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 22:06:49.8985||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 22:06:49.8985||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:06:49.9185||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:06:50.5170||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType2`4[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:06:50.5359||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 613.2289ms 
+2024-02-04 22:06:50.5359||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:06:50.5359||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 638.8456ms 
+2024-02-04 22:07:50.4167||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 22:07:50.5607||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 22:07:50.5607||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 22:07:50.5607||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 22:07:50.5677||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 22:07:50.7517||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 22:07:50.8818||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 317.4655ms 
+2024-02-04 22:07:50.8818||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 22:09:39.6436||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 22:09:39.6525||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:09:39.6690||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:09:40.2674||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType2`4[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:09:40.2864||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 612.175ms 
+2024-02-04 22:09:40.2864||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:09:40.2864||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 644.5770ms 
+2024-02-04 22:10:04.6400||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:10:04.6400||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 22:10:04.6471||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 22:10:04.6471||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 8.7363ms 
+2024-02-04 22:10:06.4290||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:10:06.4290||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 22:10:06.4290||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 22:10:06.4290||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 1.7566ms 
+2024-02-04 22:19:29.5870||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:19:29.5870||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 22:19:29.5870||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 22:19:29.5870||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 1.8090ms 
+2024-02-04 22:22:48.0622||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 22:22:48.2265||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 22:22:48.2265||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 22:22:48.2265||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 22:22:48.2265||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 22:22:48.3991||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 22:22:48.5136||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 280.7951ms 
+2024-02-04 22:22:48.5136||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 22:23:00.4551||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 95 
+2024-02-04 22:23:00.4616||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:23:00.4825||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:23:01.0269||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType2`4[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:23:01.0446||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 557.4163ms 
+2024-02-04 22:23:01.0446||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:23:01.0446||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 591.0939ms 
+2024-02-04 22:23:55.6924||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:23:55.6924||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 22:23:55.6924||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 22:23:55.6924||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 7.6973ms 
+2024-02-04 22:24:00.8085||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:24:00.8085||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 22:24:00.8085||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 22:24:00.8085||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 1.7931ms 
+2024-02-04 22:26:41.7095||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 22:26:41.8845||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 22:26:41.8845||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 22:26:41.8845||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 22:26:41.8845||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 22:26:42.0749||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 22:26:42.2125||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 323.4096ms 
+2024-02-04 22:26:42.2125||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 
+2024-02-04 22:26:44.7649||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 22:26:44.7701||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:26:44.7865||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:26:45.2304||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:26:45.2436||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 452.6461ms 
+2024-02-04 22:26:45.2436||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:26:45.2436||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 480.3812ms 
+2024-02-04 22:27:17.9518||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 22:27:17.9518||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:27:17.9518||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:27:17.9736||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:27:17.9736||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 20.5162ms 
+2024-02-04 22:27:17.9736||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:27:17.9736||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 22.9597ms 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 6.6193ms 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:27:19.1944||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 8.2754ms 
+2024-02-04 22:28:36.8824||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 122 
+2024-02-04 22:28:36.8824||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 22:28:36.8824||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:28:36.9082||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:28:36.9082||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 21.3173ms 
+2024-02-04 22:28:36.9082||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 22:28:36.9082||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;+charset=utf-8 53.4938ms 
+2024-02-04 22:28:44.4211||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/register - application/json 116 
+2024-02-04 22:28:44.4211||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 22:28:44.4211||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Register", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Register(CodeUin.WebApi.Models.UserRegisterModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:28:44.4476||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:28:44.4476||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi) in 26.2991ms 
+2024-02-04 22:28:44.4476||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Register (CodeUin.WebApi)' 
+2024-02-04 22:28:44.4476||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/register - 200 - application/json;+charset=utf-8 27.4656ms 
+2024-02-04 22:29:01.2654||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 99 
+2024-02-04 22:29:01.2654||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:29:01.2654||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:29:01.2712||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType0`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:29:01.2712||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 5.3722ms 
+2024-02-04 22:29:01.2712||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:29:01.2712||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 6.9909ms 
+2024-02-04 22:29:08.0382||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 POST http://localhost:47479/api/users/login - application/json 93 
+2024-02-04 22:29:08.0382||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:29:08.0382||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Login", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Login(CodeUin.WebApi.Models.UserLoginModel) on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:29:08.2065||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType2`4[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null],[System.String, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]'. 
+2024-02-04 22:29:08.2128||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi) in 173.8898ms 
+2024-02-04 22:29:08.2128||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Login (CodeUin.WebApi)' 
+2024-02-04 22:29:08.2128||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 POST http://localhost:47479/api/users/login - 200 - application/json;+charset=utf-8 175.1158ms 
+2024-02-04 22:29:40.9011||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:29:40.9011||INFO|::1|Microsoft.AspNetCore.Authorization.DefaultAuthorizationService|Authorization failed. These requirements were not met:
+DenyAnonymousAuthorizationRequirement: Requires an authenticated user. 
+2024-02-04 22:29:40.9011||INFO|::1|Microsoft.AspNetCore.Authentication.JwtBearer.JwtBearerHandler|AuthenticationScheme: Bearer was challenged. 
+2024-02-04 22:29:40.9011||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 401 - application/json;charset=utf-8 7.0923ms 
+2024-02-04 22:30:46.4438||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/api/users/get - - - 
+2024-02-04 22:30:46.4734||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executing endpoint 'CodeUin.WebApi.Controllers.UsersController.Get (CodeUin.WebApi)' 
+2024-02-04 22:30:46.4734||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Route matched with {action = "Get", controller = "Users"}. Executing controller action with signature System.Threading.Tasks.Task`1[Microsoft.AspNetCore.Mvc.JsonResult] Get() on controller CodeUin.WebApi.Controllers.UsersController (CodeUin.WebApi). 
+2024-02-04 22:30:52.6075||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.SystemTextJsonResultExecutor|Executing JsonResult, writing value of type '<>f__AnonymousType1`2[[System.Int32, System.Private.CoreLib, Version=8.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e],[CodeUin.WebApi.Models.UserModel, CodeUin.WebApi, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]'. 
+2024-02-04 22:30:52.6075||INFO|::1|Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker|Executed action CodeUin.WebApi.Controllers.UsersController.Get (CodeUin.WebApi) in 6133.1167ms 
+2024-02-04 22:30:52.6075||INFO|::1|Microsoft.AspNetCore.Routing.EndpointMiddleware|Executed endpoint 'CodeUin.WebApi.Controllers.UsersController.Get (CodeUin.WebApi)' 
+2024-02-04 22:30:52.6075||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/api/users/get - 200 - application/json;+charset=utf-8 6165.4605ms 
+2024-02-04 22:37:51.9061||INFO||Microsoft.AspNetCore.DataProtection.KeyManagement.XmlKeyManager|User profile is available. Using 'C:\Users\Asus\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest. 
+2024-02-04 22:37:52.1133||INFO||Microsoft.Hosting.Lifetime|Application started. Press Ctrl+C to shut down. 
+2024-02-04 22:37:52.1140||INFO||Microsoft.Hosting.Lifetime|Hosting environment: Development 
+2024-02-04 22:37:52.1140||INFO||Microsoft.Hosting.Lifetime|Content root path: E:\IT\CS\webapidemo\CodeUin.WebApi 
+2024-02-04 22:37:52.1140||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request starting HTTP/1.1 GET http://localhost:47479/swagger - - - 
+2024-02-04 22:37:52.3457||WARN|::1|Microsoft.AspNetCore.HttpsPolicy.HttpsRedirectionMiddleware|Failed to determine the https port for redirect. 
+2024-02-04 22:37:52.4646||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request finished HTTP/1.1 GET http://localhost:47479/swagger - 404 - application/json;charset=utf-8 347.7531ms 
+2024-02-04 22:37:52.4646||INFO|::1|Microsoft.AspNetCore.Hosting.Diagnostics|Request reached the end of the middleware pipeline without being handled by application code. Request path: GET http://localhost:47479/swagger, Response status code: 404 

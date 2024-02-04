@@ -1,0 +1,6 @@
+2024-02-04 22:37:51.0358 Info Registered target NLog.Targets.FileTarget(Name=allfile)
+2024-02-04 22:37:51.0546 Info Registered target NLog.Targets.ConsoleTarget(Name=ownFile-web)
+2024-02-04 22:37:51.0546 Info NLog, Version=5.0.0.0, Culture=neutral, PublicKeyToken=5120e14c03d0593c. File version: 5.2.8.2366. Product version: 5.2.8+f586f1341c46fa38aaaff4c641e7f0fa7e813943. GlobalAssemblyCache: False
+2024-02-04 22:37:51.0816 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=50, FilePath=E:\IT\CS\webapidemo\CodeUin.WebApi\nlog.config
+2024-02-04 22:37:51.0918 Info Configuration initialized.
+2024-02-04 22:37:51.8727 Info Validating config: TargetNames=allfile, ownFile-web, ConfigItems=50, FilePath=E:\IT\CS\webapidemo\CodeUin.WebApi\nlog.config
