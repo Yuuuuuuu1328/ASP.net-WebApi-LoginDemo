@@ -1,6 +1,5 @@
 #前言
-
-我可能有三年没怎么碰C#了，目前的工作是在全职搞前端，最近有时间抽空看了一下Asp.net Core，Core版本号都到了5.0了，也越来越好用了，下面将记录一下这几天以来使用Asp.Net Core WebApi+Dapper+Mysql+Redis+Docker的一次开发过程。
+记录一下这几天以来跟着大佬xiazanzhang使用Asp.Net Core WebApi+Dapper+Mysql+Redis的一次开发过程，暂时没有使用Docker
 
 ## 项目结构
 最终项目结构如下，CodeUin.Dapper数据访问层,CodeUin.WebApi应用层，其中涉及到具体业务逻辑的我将直接写在Controllers中，不再做过多分层。CodeUin.Helpers我将存放一些项目的通用帮助类，如果是只涉及到当前层的帮助类将直接在所在层级种的Helpers文件夹中存储即可。
